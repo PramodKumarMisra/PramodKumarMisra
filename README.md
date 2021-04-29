@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramodKumarMisra
-- 👀 I’m always ready to solve real world problems which is related to # Data Science 
-- 🌱 I’m  
+- 👀 I’m always ready to solve real world problems which is related to # Data Science including Machine Learning,Deep Learning.
+- 🌱 I’m  love to do AI based products  
 - 💞️ I’m looking to collaborate on ...data science problem solver
 - 📫 You can reach me via ... Linkedin.
 
