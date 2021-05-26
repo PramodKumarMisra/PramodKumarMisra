@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Pramod Kumar
+### Hi there <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif' alt='github' height='40'>  My name is Pramod Kumar
 
 
 
