@@ -1,11 +1,11 @@
 ### Hi there <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif' alt='github' height='40'>  My name is Pramod Kumar
 
-
+### Connect me Via
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PramodKumarMisra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pramodkumar018/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_am_r.d.pramod/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrdpramod)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/profile/pramod.kumar6781#!/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/pramodkumar018)  
 
 
-
+## About Me 
 
 #### I love to drive meaningful predictive and descriptive inference all kind of data
 I love to drive meaningful predictive and descriptive inference all kind of data
