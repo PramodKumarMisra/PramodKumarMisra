@@ -7,6 +7,10 @@
 
 ## About Me 
 
+<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='40'>                <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg' alt='github' height='40'>              
+
+
+
 #### I love to drive meaningful predictive and descriptive inference all kind of data
 I love to drive meaningful predictive and descriptive inference all kind of data
 
