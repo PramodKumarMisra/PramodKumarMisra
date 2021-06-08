@@ -7,7 +7,7 @@
 
 ## About Me 
 
-<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='40'>                <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg' alt='github' height='40'>              
+<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='40'>                <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg' alt='github' height='40'>                     <img src='https://i0.wp.com/www.fourmoo.com/wp-content/uploads/2020/11/PowerBI.256x256.png?fit=256%2C256&ssl=1' alt='github' height='40'>          
 
 
 
