@@ -31,5 +31,4 @@ Skills: Skills: Python & C++,PostgreSQL,Machine Learning[Pytorch,TensorFlow with
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodKumarMisra&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/PramodKumarMisra)
 
