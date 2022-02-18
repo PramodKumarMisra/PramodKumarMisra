@@ -12,7 +12,11 @@
 #### I love to drive meaningful predictive and descriptive inference all kind of data
 I love to drive meaningful predictive and descriptive inference all kind of data
 
-Skills: Skills: Python & C++,PostgreSQL,Machine Learning[Pytorch,TensorFlow with Keras, DialogFlow, Gensim etc] Visualisation Tools- Power BI, Tableau, Excel, Frequently used Python Libraries-NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SciPy, NLTK
+***Skills:*** Python & C++,PostgreSQL
+
+***Machine Learning:***[Pytorch,TensorFlow with Keras, DialogFlow, Gensim etc]
+
+***Visualisation Tools:***- Power BI, Tableau, Excel, Frequently used Python Libraries-NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SciPy, NLTK
 
 - 🔭 I’m currently working on Projects related to agriculture  
 - 🌱 I’m currently learning DALL-E 
