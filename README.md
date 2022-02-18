@@ -14,7 +14,7 @@
 
 ***Skills:*** Python & C++,PostgreSQL
 
-***Machine Learning:***[Pytorch,TensorFlow with Keras, DialogFlow, Gensim etc]
+***Machine Learning:*** Pytorch,TensorFlow with Keras,CNN,RNN:VGGNet16&19
 
 ***Visualisation Tools:***- Power BI, Tableau, Excel, Frequently used Python Libraries-NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, SciPy, NLTK
 
