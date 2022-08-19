@@ -6,8 +6,7 @@
 
 
 ## About Me 
-
-<img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg' alt='github' height='50'>    <img src='https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg' alt='github' height='50'>  <img src='https://miro.medium.com/max/700/1*rFW4kjSDfM_SFYe0wghe4Q.png' alt='github' height='50'>                 <img src='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg' alt='github' height='50'>               <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt='github' height='50'>        <img src='https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg' alt='github' height='40'>              <img src='https://themlco.com/Academy/mgp/assets/img/tools_logo/20.png' alt='github' height='60'>                              
+<img src='https://miro.medium.com/max/700/1*rFW4kjSDfM_SFYe0wghe4Q.png' alt='github' height='50'>                 <img src='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg' alt='github' height='50'>               <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' alt='github' height='50'>        <img src='https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg' alt='github' height='40'>              <img src='https://themlco.com/Academy/mgp/assets/img/tools_logo/20.png' alt='github' height='60'>                              
 
 ## "I Love to Drive Meaningful Predictive & Descriptive Inference all Kind of DATA"
 
